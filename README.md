@@ -1,1 +1,1 @@
-# Repository contains Supervised and Unsupervised Machine learning assignments
+# Repository contains Supervised and Unsupervised Machine learning assignments.
